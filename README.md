@@ -12,6 +12,8 @@
 
 ### Data Preprocessing
 
+![type_count](https://user-images.githubusercontent.com/89816213/153542321-f4d604aa-ff30-4b47-a2ed-0e1a4a7fc488.png)
+
 ![classification](https://user-images.githubusercontent.com/89816213/153541953-f774eec9-ef28-420c-bb87-183fbeb318b8.png)
 
 
