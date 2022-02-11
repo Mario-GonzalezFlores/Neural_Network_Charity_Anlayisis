@@ -12,12 +12,14 @@
 
 ### Data Preprocessing
 
+![classification](https://user-images.githubusercontent.com/89816213/153541953-f774eec9-ef28-420c-bb87-183fbeb318b8.png)
+
+
+
+#### Target and Variables
+
 ![target](https://user-images.githubusercontent.com/89816213/153541530-4818b5bc-a686-4c42-a241-ee2e73e802c2.PNG)
 
-#### Targets
-
-#### Variables
-![classification](https://user-images.githubusercontent.com/89816213/153541953-f774eec9-ef28-420c-bb87-183fbeb318b8.png)
 
 
 #### Drop-values
